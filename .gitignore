@@ -41,3 +41,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.project
+http-consumer/.settings/org.eclipse.m2e.core.prefs
+http-provider/.settings/org.eclipse.m2e.core.prefs
+http-rpc/.settings/org.eclipse.m2e.core.prefs
+http-interfaces/.settings/org.eclipse.m2e.core.prefs
+*.classpath
+*.prefs
