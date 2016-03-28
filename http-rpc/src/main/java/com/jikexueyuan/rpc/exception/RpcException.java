@@ -3,8 +3,10 @@ package com.jikexueyuan.rpc.exception;
 /**
  * Created on 2015/8/17.
  */
-public class RpcException extends Throwable
-{
+public class RpcException extends Throwable {
+    
+    private static final long serialVersionUID = 5574987226847736276L;
+
     private String code;
 
     private Object data;

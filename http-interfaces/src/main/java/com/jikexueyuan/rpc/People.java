@@ -3,8 +3,7 @@ package com.jikexueyuan.rpc;
 /**
  * Created by version_z on 2015/8/22.
  */
-public class People
-{
+public class People {
     private Integer age;
 
     private Integer sex;
